@@ -1,4 +1,4 @@
-# Docker-gitea
+# docker-gitea (using mysql)
 
  - 도커를 이용한 gitea 설치
  
